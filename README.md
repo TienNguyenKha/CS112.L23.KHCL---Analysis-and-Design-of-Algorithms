@@ -29,4 +29,4 @@ Nhóm *Phân tích và thiết kế thuật toán-UIT*
 
 *Mar 15, 2021*
 - Add presentation final and remove presentation v1.1
-- Updata `README.md`.
+- Update `README.md`.
