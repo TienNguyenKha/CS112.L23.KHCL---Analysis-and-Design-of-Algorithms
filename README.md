@@ -15,7 +15,7 @@ Nhóm *Phân tích và thiết kế thuật toán-UIT*
 6. Q&A. 
 
 
-## Commit status:
+## Commit history:
 *Mar 2, 2021:*
 - Update `README.md`.
 
