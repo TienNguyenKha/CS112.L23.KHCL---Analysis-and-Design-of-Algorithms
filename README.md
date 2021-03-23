@@ -12,7 +12,7 @@
 | 2	|[Nguyễn Khả Tiến](https://www.facebook.com/tiennguyenbangde)	| 19522337	| ![](https://img.shields.io/badge/-Member-yellow)  |[TienNguyenKha](https://github.com/TienNguyenKha)|
 | 3	|[Trịnh Nhật Tân](https://www.facebook.com/8thJunie)	  | 19522179	| ![](https://img.shields.io/badge/-Member-yellow)  |[trnhattan](https://github.com/trnhattan)|
 
-## Process: 
+## Progress: 
 - [x] **Week 1** 
   - [x] **[Introduction]**
 
