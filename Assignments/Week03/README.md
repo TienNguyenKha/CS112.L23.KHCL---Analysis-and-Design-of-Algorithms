@@ -19,9 +19,9 @@ Ngày đầu tiên (ngày **0**) có **n** cá thể ở mức **1**,
 Bản thân các cá thể mức **i** phát triển thành mức **i+1** và chu kỳ phát triển trong ngày chấm dứt.
 Hãy xác định sau **k** ngày trong nước biển có bao nhiêu cá thể.
 
-**Dữ liệu**: Vào từ thiết bị nhập chuẩn gồm một dòng chứa **2** số nguyên **n** và **k (1 ≤ n ≤ 1000, 1 ≤ k ≤ 10^17)**.
+**Dữ liệu**: Vào từ thiết bị nhập chuẩn gồm một dòng chứa **2** số nguyên **n** và **k (1 ≤ n ≤ 1000, 1 ≤ k ≤ 10<sup>17</sup>)**.
 
-**Kết quả**: Đưa ra thiết bị xuất chuẩn một số nguyên – số lượng cá thể  tảo theo mô đun **10^9+7**.
+**Kết quả**: Đưa ra thiết bị xuất chuẩn một số nguyên – số lượng cá thể  tảo theo mô đun **10<sup>9</sup>+7**.
 
 | Input | Output |
 |:---:|:---:|
@@ -41,7 +41,7 @@ Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cá
 
 **Dữ liệu**: Vào từ thiết bị nhập chuẩn:
   Dòng đầu tiên chứa số nguyên **n (1 ≤ n ≤ 10^6)**,
-  Dòng thứ **2** chứa n số nguyên **a1, a2, . . ., an (0 ≤ |ai| ≤ 10^9, i = 1 ÷ n)**.
+  Dòng thứ **2** chứa n số nguyên **a<sub>1</sub>, a<sub>2</sub>, . . ., a<sub>n</sub> (0 ≤ |a<sub>i</sub>| ≤ 10<sup>9</sup>, i = 1 ÷ n)**.
   
 **Kết quả**: Đưa ra thiết bị xuất chuẩn trên một dòng **2** số nguyên **p**, **q** và lãi thu được.
 
