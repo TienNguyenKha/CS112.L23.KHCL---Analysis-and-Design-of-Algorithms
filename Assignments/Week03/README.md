@@ -3,8 +3,8 @@
 ## Progress
 | Problem | Status | Working Space in Colab |
 |:---:|:---:|:--:|
-| [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | ![](https://img.shields.io/badge/progress-75%25-green) | [Google Colab](https://colab.research.google.com/drive/1VPwion7aaIwH3EQiVWop2B8w1mTkDBDT?usp=sharing)
-| [Trạm thu phí](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1) | ![](https://img.shields.io/badge/progress-50%25-yellowgreen) | [Google Colab]()
+| [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | ![](https://img.shields.io/badge/progress-100%25-brightgreen) ![](https://img.shields.io/badge/-PASS%20%E2%9C%93-brightgreen) | [Google Colab](https://colab.research.google.com/drive/1VPwion7aaIwH3EQiVWop2B8w1mTkDBDT?usp=sharing)
+| [Trạm thu phí](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1) | ![](https://img.shields.io/badge/progress-100%25-brightgreen) ![](https://img.shields.io/badge/-PASS%20%E2%9C%93-brightgreen) | [Google Colab](https://colab.research.google.com/drive/1ITLPvmjaoj2A79TwnRVfo9ooc7h4AbsS?usp=sharing)
 ## Problem 1: [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)
 **Time limit per test: 1 second**
 
