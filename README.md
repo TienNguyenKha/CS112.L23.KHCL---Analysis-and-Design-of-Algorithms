@@ -31,7 +31,7 @@
   - [x] **[Analyze and Design Algorithm for Recursive Problem](https://github.com/TNT535/CS112.L23.KHCL_Recursive_algorithm/blob/main/CS112_Group2.pdf)**
   - [x] **Assignment**
 
-- [x] **Week 5**
+- [ ] **Week 5**
   - [ ] **[Prove the correctness of an algorithm]()**
   - [ ] **Assignment**
   
