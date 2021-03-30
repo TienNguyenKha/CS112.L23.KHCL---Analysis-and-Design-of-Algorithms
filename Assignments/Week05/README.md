@@ -48,7 +48,7 @@ Hãy xác định khóa mở cửa.
 |:---:|:---:|
 | 105 | 510 |
 
-## Problem 2: [Con đường gốm sứ (KHTN)](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)
+## Problem 3: [Con đường gốm sứ (KHTN)](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)
 **Time limit per test: 1 second**
 
 **Memory limit per test: 50 megabytes**
