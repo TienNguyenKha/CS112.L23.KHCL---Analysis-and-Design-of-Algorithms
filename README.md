@@ -34,4 +34,7 @@
 - [ ] **Week 5**
   - [ ] **[Prove the correctness of an algorithm]()**
   - [ ] **Assignment**
+    - [ ] **[H-index](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
+    - [ ] **[Khóa số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
+    - [ ] **[Con đường gốm sứ (KHTN)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
   
