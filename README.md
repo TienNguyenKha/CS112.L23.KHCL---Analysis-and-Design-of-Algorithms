@@ -28,10 +28,10 @@
     - [x] **[Trạm thu phí](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week03)**
 
 - [x] **Week 4**
-  - [x] **[Analyze and Design Algorithm for Recursive Problem](https://github.com/TNT535/CS112.L23.KHCL_Recursive_algorithm/blob/main/CS112_Group2.pdf)
+  - [x] **[Analyze and Design Algorithm for Recursive Problem](https://github.com/TNT535/CS112.L23.KHCL_Recursive_algorithm/blob/main/CS112_Group2.pdf)**
   - [x] **Assignment**
 
 - [x] **Week 5**
-  - [ ] **[Prove the correctness of an algorithm]**()
+  - [ ] **[Prove the correctness of an algorithm]()**
   - [ ] **Assignment**
   
