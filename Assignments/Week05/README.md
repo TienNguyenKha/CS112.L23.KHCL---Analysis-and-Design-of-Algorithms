@@ -46,24 +46,3 @@ Hãy xác định khóa mở cửa.
 | Input | Output |
 |:---:|:---:|
 | 105 | 510 |
-
-## Problem 3: [Con đường gốm sứ (KHTN)](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)
-**Time limit per test: 1 second**
-
-**Memory limit per test: 50 megabytes**
-
-Sau khi bê tông hóa đê chống lụt, thành phố quyết định cho khảm lên tường bê tông của đê tranh ghép tạo bởi các mảnh gốm sứ lấy từ các lò gốm nổi tiếng trong nước. Toàn bộ con đê được chia thành **n** phần có độ rộng giống nhau, mỗi phần gọi là một lô. Mỗi bức tranh khảm trên đó đều phải có độ rộng giống nhau, tức là bao gồm một số như nhau các lô liên tiếp và toàn bộ tường phải được phủ kín tranh từ đầu đến cuối, mỗi lô phải được tạo màu chủ đạo (gọi là màu của lô) từ một loại gốm đặc trưng lấy từ một lò gốm nào đó trong nước, ví dụ gốm màu xanh Cô ban từ lò gốm Ánh Hồng Quảng Ninh, gốm da lươn – từ Bát Tràng Hà Nội, gốm mộc hồng nhạt – từ Biên Hòa Đồng Nai, . . . Các loại gốm này được đánh số từ 1 đến 50 000.
-
-Hướng dẫn viên du lịch giới thiệu với khách tham quan là có 2 nhóm nghệ nhân được giao việc tạo hình và khảm tranh. Với mỗi nhóm các bức tranh của đều được đặc trưng bởi dãy số ***(c<sub>1</sub>, c<sub>2</sub>, . . ., c<sub>k</sub>)***, trong đó ***k*** là độ rộng của tranh, ***c<sub>i</sub>*** – màu của lô, ***i*** = 1 ÷ ***k***, các bức tranh khác nhau có thể khác nhau ở trình tự xuất hiện màu của các lô, ví dụ với dãy số đặc trưng (2, 6, 2, 9), trình tự màu trong tranh có thể là (9, 2, 2, 6) hoặc (6, 9, 2, 2) nhưng không thể là (6, 9, 2, 3). Dãy đặc trưng của 2 nhóm là khác nhau, tức là không thể bằng phép hoán vị trình tự màu của lô để đưa một dãy về dãy kia. Các bức tranh được ghép với nhau rất hài hòa và khách tham quan không nhận biết được sự chuyển tiếp từ tranh này sang tranh khác. Tuy vậy nhiều khách tham quan vẫn muốn biết có bao nhiêu bức tranh đã tạo ra và trong đó số bức tranh của mỗi nhóm là bao nhiêu.
-
-Hãy xác định số lượng tranh có thể có và số lượng tranh mỗi nhóm đã làm. biết rằng nhóm nào cũng có tranh của mình.
-
-**Dữ liệu:**
-- Dòng đầu tiên chứa một số nguyên ***n*** – số lượng lô của con đê (2 ≤ ***n*** ≤ 105)
-- Dòng thứ 2 chứa ***n*** số nguyên ***a<sub>1</sub>, a<sub>2</sub>, . . ., a<sub>n</sub>*** – màu của các lô (1 ≤ ***a<sub>i</sub>*** ≤ 50 000, ***i*** = 1 ÷ ***n***).
-
-**Kết quả:** Dòng đầu tiên chứa số nguyên ***m*** – số lượng phương án khác nhau chia con đường thành các bức tranh, nếu không có cách phân chia để đảm bảo phân biệt tranh của đúng 2 nhóm thì đưa ra số -1. Nếu có cách phân biệt thì ở mỗi dòng tiếp theo đưa ra 3 số nguyên ***k***, ***p*** và ***q*** – độ rộng bức tranh, số tranh do nhóm 1 thực hiện và số tranh do nhóm 2 thực hiện, thông tin đưa ra theo thứ tự tăng dần của ***k*** và ở mỗi dòng có ***p*** ≥ ***q*** > 0.
-
-| Input | Output |
-|:---|:---|
-| 9 <br /> 1 2 3 6 4 9 3 1 2 | 1 <br /> 3 2 1 |
