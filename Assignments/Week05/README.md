@@ -5,7 +5,6 @@
 |:---:|:---:|:--:|
 | [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
 | [Khóa số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
-| [Con đường gốm sứ (KHTN)](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
 
 ## Problem 1: [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)
 **Time limit per test: 1 second**
@@ -23,13 +22,13 @@ Một người có ***n*** bài báo, bài báo thứ ***i*** có điểm trích
 **Dữ liệu:** Vào từ thiết bị nhập chuẩn:
 
   - Dòng đầu tiên chứa một số nguyên ***n*** (1 ≤ ***n*** ≤ 5×10<sup>5</sup>)),
-  - Dòng thứ 2 chứa ***n*** số nguyên ***c<sub>1</sub>, c<sub>2</sub>, . . ., c<sub>n</sub>*** (0 ≤ c<sub>i</sub> ≤ 10<sup>6</sup>, ***i*** = 1 ÷ ***n***).
+  - Dòng thứ 2 chứa ***n*** số nguyên ***c<sub>1</sub>, c<sub>2</sub>, . . ., c<sub>n</sub>*** (0 ≤ ***c<sub>i</sub>*** ≤ 10<sup>6</sup>, ***i*** = 1 ÷ ***n***).
   
 **Kết quả:** Đưa ra thiết bị xuất chuẩn một số nguyên ***– H_Index*** tìm được.
 
 | Input | Output |
 |:---|:---:|
-| 5 <br /> 8 5 3 4 10 | 15 |
+| 5 <br /> 8 5 3 4 10 | <br /> 4 |
 
 ## Problem 2: [Khóa số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9)
 **Time limit per test: 0.15 second**
