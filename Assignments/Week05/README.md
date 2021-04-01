@@ -3,7 +3,7 @@
 ## Progrees
 | Problem | Status | Working Space in Colab |
 |:---:|:---:|:--:|
-| [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) | ![](https://img.shields.io/badge/progress-90%25-green) | [Google Colab](https://colab.research.google.com/drive/1inylaz-lgTNYcC8bXvcPpRhRGyvsFLSr?usp=sharing) |
+| [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) | ![](https://img.shields.io/badge/progress-100%25-brightgreen) ![](https://img.shields.io/badge/-PASS%20%E2%9C%93-brightgreen) | [Google Colab](https://colab.research.google.com/drive/1inylaz-lgTNYcC8bXvcPpRhRGyvsFLSr?usp=sharing) |
 | [Khóa số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
 
 ## Problem 1: [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)
@@ -39,7 +39,7 @@ Một người có ***n*** bài báo, bài báo thứ ***i*** có điểm trích
 
 Hãy xác định khóa mở cửa.
 
-**Dữ liệu:** ào từ thiết bị nhập chuẩn gồm một xâu ký tự số có độ dài lớn hơn 2 và không vượt quá 10<sup>5</sup>.
+**Dữ liệu:** Vào từ thiết bị nhập chuẩn gồm một xâu ký tự số có độ dài lớn hơn 2 và không vượt quá 10<sup>5</sup>.
 
 **Kết quả:** Đưa ra thiết bị xuất chuẩn xâu khóa mở cửa.
 
