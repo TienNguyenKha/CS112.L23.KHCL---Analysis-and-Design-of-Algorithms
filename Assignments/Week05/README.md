@@ -3,7 +3,7 @@
 ## Progrees
 | Problem | Status | Working Space in Colab |
 |:---:|:---:|:--:|
-| [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
+| [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) | ![](https://img.shields.io/badge/progress-90%25-green) | [Google Colab](https://colab.research.google.com/drive/1inylaz-lgTNYcC8bXvcPpRhRGyvsFLSr?usp=sharing) |
 | [Khóa số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
 
 ## Problem 1: [H-index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)
