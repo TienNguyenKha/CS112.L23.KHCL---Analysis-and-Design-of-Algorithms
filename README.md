@@ -32,10 +32,9 @@
   - [x] **[Analyze complexity for Recursive Problem](https://github.com/TNT535/CS112.L23.KHCL_Recursive_algorithm/blob/main/CS112_Group2.pdf)**
   - [x] **Assignment**
 
-- [ ] **Week 5**
-  - [ ] **[Prove the correctness of an algorithm]()**
-  - [ ] **Assignment**
-    - [ ] **[H-index](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
-    - [ ] **[Khóa số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
-    - [ ] **[Con đường gốm sứ (KHTN)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
+- [x] **Week 5**
+  - [x] **[Prove the correctness of an algorithm](https://github.com/KBGIBN/L23.KHCL.N01)**
+  - [x] **Assignment**
+    - [x] **[H-index](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
+    - [x] **[Khóa số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
   
