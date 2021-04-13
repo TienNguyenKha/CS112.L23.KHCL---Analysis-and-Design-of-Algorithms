@@ -42,7 +42,6 @@
   - [ ] **[Completed Search - Brute Force]()**
   - [ ] **Assignment**
   
-=======
 # CS112.L23.KHCL - Design and Analysis of Algorithm
 ![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/graphs/contributors)
 ## Lecturer:
