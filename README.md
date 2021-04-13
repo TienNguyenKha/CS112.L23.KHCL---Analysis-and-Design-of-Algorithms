@@ -39,6 +39,6 @@
     - [x] **[Khóa số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
    
 - [ ] **Week 6**
-  - [ ] **[Completed Search - Brute Force]()**
+  - [x] **[Completed Search - Brute Force](https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/seminar)**
   - [ ] **Assignment**
   
