@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CS112.L23.KHCL - Design and Analysis of Algorithm
 ![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/graphs/contributors)
 ## Lecturer:
@@ -87,5 +86,3 @@
 - [ ] **Week 6**
   - [x] **[Completed Search - Brute Force](https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/seminar)**
   - [ ] **Assignment**
-  
->>>>>>> edc8dee873b4311ae4023ba39f46540dd6e1797d
