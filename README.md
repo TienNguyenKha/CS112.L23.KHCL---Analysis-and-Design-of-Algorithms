@@ -25,8 +25,8 @@
 - [x] **Week 3** (host)
   - [x] **[Complexity Algorithm](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Presentation)**
   - [x] **Assignment**
-    - [x] **[Tảo biển](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week03)**
-    - [x] **[Trạm thu phí](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week03)**
+    - [x] **[Tảo biển](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/01)**
+    - [x] **[Trạm thu phí](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/01)**
 
 - [x] **Week 4**
   - [x] **[Analyze complexity for Recursive Problem](https://github.com/TNT535/CS112.L23.KHCL_Recursive_algorithm/blob/main/CS112_Group2.pdf)**
@@ -35,10 +35,16 @@
 - [x] **Week 5**
   - [x] **[Prove the correctness of an algorithm](https://github.com/KBGIBN/L23.KHCL.N01)**
   - [x] **Assignment**
-    - [x] **[H-index](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
-    - [x] **[Khóa số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/Week05)**
+    - [x] **[H-index](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/02)**
+    - [x] **[Khóa số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/02)**
    
-- [ ] **Week 6**
+- [x] **Week 6**
   - [x] **[Completed Search - Brute Force](https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/seminar)**
+  - [x] **Assignment**
+
+- [ ] **Week 7**
+  - [ ] **[Completed Search - Backtracking]()**
   - [ ] **Assignment**
+    - [ ] **[Đổi mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)
+    - [ ] **[Số nguyên mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)
   
