@@ -4,7 +4,7 @@
 | Problem | Status | Working Space in Colab |
 |:---:|:---:|:--:|
 | [Đổi mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
-| [Số nguyên mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15) | ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
+| [Số nguyên mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15) | ![](https://img.shields.io/badge/progress-100%25-brightgreen) ![](https://img.shields.io/badge/-PASS%20%E2%9C%93-brightgreen) | [Google Colab](https://colab.research.google.com/drive/1Oxh7yWjAgKO1EQy-t-M4vdPGd42AZDeJ?usp=sharing) |
 
 ## Problem 1: [Đổi mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)
 **Time limit per test: 0.1 second**
