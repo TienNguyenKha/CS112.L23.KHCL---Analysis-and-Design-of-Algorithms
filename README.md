@@ -42,9 +42,9 @@
   - [x] **[Completed Search - Brute Force](https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/seminar)**
   - [x] **Assignment**
 
-- [ ] **Week 7**
-  - [ ] **[Completed Search - Backtracking]()**
-  - [ ] **Assignment**
-    - [ ] **[Đổi mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
-    - [ ] **[Số nguyên mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
+- [x] **Week 7**
+  - [x] **[Completed Search - Backtracking]()**
+  - [x] **Assignment**
+    - [x] **[Đổi mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
+    - [x] **[Số nguyên mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
   
