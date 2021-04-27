@@ -43,8 +43,12 @@
   - [x] **Assignment**
 
 - [x] **Week 7**
-  - [x] **[Completed Search - Backtracking]()**
+  - [x] **Completed Search - Backtracking**
   - [x] **Assignment**
     - [x] **[Đổi mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
     - [x] **[Số nguyên mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
+
+- [ ] **Week 8**
+  - [x] **[Divide and conquer](https://github.com/TruongQuocTruong/L23.KHCL.N11)**
+  - [ ] **Assignment**
   
