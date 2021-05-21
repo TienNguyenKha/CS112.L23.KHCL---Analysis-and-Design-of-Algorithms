@@ -31,3 +31,15 @@ Hãy xác định độ cao lớn nhất có thể đạt được của hàng r
 **Time limit per test: 1 second**
 
 **Memory limit per test: 50 megabytes**
+
+Cho 2 phân số đúng và tối giản ![equation](https://latex.codecogs.com/png.image?\dpi{120}&space;\mathbf{\frac{a}{b},&space;\frac{c}{c}}). Mỗi phép biến đổi là tăng ***a*** và ***b*** lên 1, sau đó giản ước phân số nhận được.
+
+Hãy xác định sau bao nhiêu bước biến đổi từ phân số thứ nhất ban đầu nhận được phân số thứ 2 đã cho.
+
+***Dữ liệu:*** Vào từ thiết bị nhập chuẩn gồm 4 dòng, mỗi dòng chứa 1 số nguyên ***a, b, c, d***, 0 < ***a*** < ***b*** ≤105, 0 < ***c*** < ***d*** ≤ 105, ***a*** và ***b*** nguyên tố cùng nhau, ***c*** và ***d*** nguyên tố cùng nhau ![equation](https://latex.codecogs.com/svg.image?\mathbf{\frac{a}{b}\neq&space;&space;\frac{c}{c}}).
+
+***Kết quả:*** Đưa ra thiết bị xuất chuẩn số 0 nếu không có cách biến đổi hoặc một số nguyên – số lượng phép biến đổi.
+
+| Input | Output |
+|:---|:---|
+|**1 6 2 3**|**5**|
