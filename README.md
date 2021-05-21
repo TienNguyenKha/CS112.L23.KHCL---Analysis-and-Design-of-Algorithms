@@ -48,7 +48,17 @@
     - [x] **[Đổi mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
     - [x] **[Số nguyên mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
 
-- [ ] **Week 8**
+- [x] **Week 8**
   - [x] **[Divide and conquer](https://github.com/TruongQuocTruong/L23.KHCL.N11)**
-  - [ ] **Assignment**
+  - [x] **Assignment**
+
+- [x] **Week 9**
+  - [x] **[Greedy](https://github.com/hoainam2310/CS112.L23.KHCL/tree/main/Greedy_algorithm_slide)**
+  - [x] **Assignment**
+
+- [x] **Week 10**
+  - [x] **[Completed search - Branch and Bound](https://github.com/Nhatthanh1/CS112N09/tree/main/Seminar)**
+  - [x] **Assignment**
+    - [x] **[Sửa hàng rào](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/04)**
+    - [x] **[Phân số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/04)**
   
