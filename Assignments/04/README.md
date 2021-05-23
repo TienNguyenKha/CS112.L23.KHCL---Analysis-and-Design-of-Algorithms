@@ -3,7 +3,7 @@
 ## Progress
 | Problem | Status | Working Space in Colab |
 |:---:|:---:|:--:|
-| [Sửa hàng rào](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/6) |  ![](https://img.shields.io/badge/progress-100%25-brightgreen) ![](https://img.shields.io/badge/-PASS%20%E2%9C%93-brightgreen) | [Google Colab]() |
+| [Sửa hàng rào](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/6) |  ![](https://img.shields.io/badge/progress-0%25-red) | [Google Colab]() |
 | [Phân số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/13) | ![](https://img.shields.io/badge/progress-100%25-brightgreen) ![](https://img.shields.io/badge/-PASS%20%E2%9C%93-brightgreen) | [Google Colab]() |
 
 ## Problem 1: [Sửa hàng rào](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/6)
