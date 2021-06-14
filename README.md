@@ -19,12 +19,12 @@
 
 - [x] **Week 2** 
   - [x] **Computational Thinking**
-  - [x] **Assignment**
+  - [x] **Assignments**
     - [x] **Abstraction - TaoBien**
 
 - [x] **Week 3** (host)
   - [x] **[Complexity Algorithm](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Presentation)**
-  - [x] **Assignment**
+  - [x] **Assignments**
     - [x] **[Tảo biển](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/01)**
     - [x] **[Trạm thu phí](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/01)**
 
@@ -34,31 +34,43 @@
 
 - [x] **Week 5**
   - [x] **[Prove the correctness of an algorithm](https://github.com/KBGIBN/L23.KHCL.N01)**
-  - [x] **Assignment**
+  - [x] **Assignments**
     - [x] **[H-index](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/02)**
     - [x] **[Khóa số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/02)**
    
 - [x] **Week 6**
   - [x] **[Completed Search - Brute Force](https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/seminar)**
-  - [x] **Assignment**
+  - [x] **Assignments**
 
 - [x] **Week 7**
   - [x] **Completed Search - Backtracking**
-  - [x] **Assignment**
+  - [x] **Assignments**
     - [x] **[Đổi mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
     - [x] **[Số nguyên mới](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/03)**
 
 - [x] **Week 8**
   - [x] **[Divide and conquer](https://github.com/TruongQuocTruong/L23.KHCL.N11)**
-  - [x] **Assignment**
+  - [x] **Assignments**
 
 - [x] **Week 9**
   - [x] **[Greedy](https://github.com/hoainam2310/CS112.L23.KHCL/tree/main/Greedy_algorithm_slide)**
-  - [x] **Assignment**
+  - [x] **Assignments**
 
 - [x] **Week 10**
   - [x] **[Completed search - Branch and Bound](https://github.com/Nhatthanh1/CS112N09/tree/main/Seminar)**
-  - [x] **Assignment**
+  - [x] **Assignments**
     - [x] **[Sửa hàng rào](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/04)**
     - [x] **[Phân số](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/tree/main/Assignments/04)**
+
+- [x] **Week 11**
+  - [x] **[Dynamic Programming](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project)**
+  - [x] **Assignments** 
+
+- [x] **Week 12**
+  - [x] **[Geometric Algorithms](https://github.com/BTrDung/CS112_Team08-Design-and-Analysis-of-Algorithm/tree/main/Presentation)**
+  - [x] **Assignments** 
+
+- [x] **Week 13**
+  - [x] **[Graph Algorithms](https://github.com/Nhom006/Nhom006/tree/main/Bai_thuyet_trinh)**
+  - [x] **Assignments** 
   
