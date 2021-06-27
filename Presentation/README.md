@@ -29,3 +29,7 @@
 | Nguyễn Trung Tuấn | - Soạn nội dung <br />- Thuyết trình <br />- **Assignments**: 02 (H-index), 03 (Đổi mới), 04 (Phân só, viết colab) | ![](https://img.shields.io/badge/-100%20%E2%9C%93%20-brightgreen) |
 | Nguyễn Khả Tiến   | - Soạn nội dung <br />- Quiz <br />- **Assignments**: 01 (BOT), 02 (Khóa số), 04 (Phân số)                         | ![](https://img.shields.io/badge/-100%20%E2%9C%93%20-brightgreen) |
 | Trịnh Nhật Tân    | - Soạn nội dung <br />- Viết slides <br />- **Assignments**: 01 (Tảo biển), 03 (Số nguyên mới), 04 (Phân số)       | ![](https://img.shields.io/badge/-100%20%E2%9C%93%20-brightgreen) |
+
+## Đánh giá bài tập về nhà: 
+
+Vì là nhóm đầu tiên thuyết trình, nên nhóm đã mắc không ít lỗi. Trong đó có phần deadline cho BTVN và phần chữa BTVN bị chậm trễ. Nhưng sau đó nhóm cũng đã rất cố gắng để xin thời gian sửa bài tập cho các bạn ngay tại lớp.Về phần các bài nộp của các nhóm thì do sự không nhất quán trong thời hạn deadline mà nhóm giao ở classroom nên không nhận được bài nào từ các nhóm, vấn đề này nhóm em xin chịu trách nhiệm và rút kinh nghiệm cho những môn học sau.  
